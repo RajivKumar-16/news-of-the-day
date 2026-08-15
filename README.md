@@ -9,7 +9,7 @@ The main idea of this project is to detect the user's location, find their state
 Add your deployed website link here:
 
 ```text
-https://your-website-link.com
+https://news-of-the-day.vercel.app
 ```
 
 ## 📌 Features
@@ -140,7 +140,7 @@ dist
 First clone the project:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/news-of-the-day.git
+git clone https://github.com/RajivKumar-16/news-of-the-day.git
 ```
 
 Go inside the project folder:
